@@ -124,7 +124,6 @@ def partition(dense_matrix):
 
 
 def main():
-    # df_data1 = pd.read_csv("/Users/nikets/Downloads/INFS770_assignment3(1)/DBbook_train_ratings.tsv",
     df_data1 = pd.read_csv("/Users/aakankshasoral/Downloads/INFS770_assignment3/DBbook_train_ratings.tsv",
     # the location to the data file
     sep="\t", # for tab delimited documents, use "\t" as the seperator
